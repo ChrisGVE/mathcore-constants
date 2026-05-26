@@ -10,7 +10,7 @@ keywords = ["constants", "physics", "codata", "science", "units"]
 categories = ["mathematics", "science"]
 authors.workspace = true
 edition.workspace = true
-license.workspace = true
+license = "Apache-2.0"
 rust-version.workspace = true
 
 [dependencies]
